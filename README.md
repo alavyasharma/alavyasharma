@@ -2,7 +2,7 @@ Hey, I'm Alavya —
 a cybersecurity enthusiast exploring OSINT, Linux, and ethical hacking.
 Currently working through the Google Cybersecurity Certificate and hands-on labs on TryHackMe.
 
-🛠️ Skills: Python, SQL, HTML 
+🛠️ Skills: Python, SQL, HTML |
 Learning: Linux, PowerShell, Network Security
 
 I’m building a solid foundation in cybersecurity and documenting my journey through projects and writeups.
